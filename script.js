@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name Опыт
+// @name ОПЫТ
 // @namespace https://www.bestmafia.com/
-// @version 1.0
+// @version 1.1
 // @description ъъ
 // @author кокоджамбо
 // @match http://www.mafia-rules.net/*
