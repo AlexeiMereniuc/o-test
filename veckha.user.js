@@ -3,8 +3,8 @@
 // @version 1.1
 // @description
 // @author Винни Пух
-// @match *://*.vk.com/app2207620*
-// @match *://ok.ru/game/mafia-rules*
+// @match *vk.com/app2207620*
+// @match *ok.ru/game/mafia-rules*
 // @grant none
 // @license MIT
 
